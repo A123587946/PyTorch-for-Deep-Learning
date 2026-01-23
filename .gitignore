@@ -1,4 +1,8 @@
 # Python and Development
+helper_utils.py
+unittests_utils.py
+unittests.py
+*.ipynb_checkpoints
 __pycache__/
 *.pyc
 *.pyo
